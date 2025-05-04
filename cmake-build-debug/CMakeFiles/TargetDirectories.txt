@@ -1,0 +1,3 @@
+/Users/cisco/CLionProjects/learn/cmake-build-debug/CMakeFiles/learn.dir
+/Users/cisco/CLionProjects/learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cisco/CLionProjects/learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
