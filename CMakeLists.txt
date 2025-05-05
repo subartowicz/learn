@@ -6,4 +6,6 @@ set(CMAKE_C_STANDARD 23)
 add_executable(learn main.c
 
         swap/swap.c
-        swap/swap.h)
+        swap/swap.h
+        algorithms/even.c
+        algorithms/even.h)
